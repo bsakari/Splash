@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969284223023",
+    "firebase_url": "https://elimu-assistant.firebaseio.com",
+    "project_id": "elimu-assistant",
+    "storage_bucket": "elimu-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969284223023:android:94359bbf275c3afe",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.elimuassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969284223023-ck3kr60h6tv9f71qh8b9n5qngn1cp360.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaBwQUL6hQnd0egnKxiF9d18HPcd07j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969284223023-ck3kr60h6tv9f71qh8b9n5qngn1cp360.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
